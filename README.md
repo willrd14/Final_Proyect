@@ -23,7 +23,7 @@ El sistema implementa un **Control de Acceso Basado en Roles (RBAC)**, permitien
 ---
 
 ## 👤 Autor
-**[Tu Nombre Aquí]** - *Proyecto Final de Programación III*
+**Williams R. Villavizar Hdez.** - *Proyecto Final de Programación III*
 
 ---
 
@@ -117,7 +117,3 @@ app.use((req, res, next) => {
   next();
 });
 ```
-
----
-
-*Este documento sirve como base técnica para la presentación del proyecto final.*
